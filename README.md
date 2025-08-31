@@ -14,7 +14,7 @@ Hello! I'm a passionate **Data Engineer** and **Machine Learning Enthusiast** wi
 - 🌱 Learning advanced **Process Mining** techniques and **MLOps**
 - 👯 Looking to collaborate on **open-source ML projects** and **data engineering solutions**
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Engineering**, **Process Mining**
-- 📫 How to reach me: **[Email placeholder - your.email@domain.com]**
+- 📫 How to reach me: **[a2gpt@outlook.com]**
 - ⚡ Fun fact: I love implementing ML algorithms from scratch to understand the underlying mathematics!
 
 ---
